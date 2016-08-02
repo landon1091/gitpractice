@@ -1,5 +1,10 @@
 body {
-    background-color: #f0b017;
+    background-image: url(http://434985940.r.cdnsun.net/images/citybis.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: fixed;
+    background-color: #ffd761;
 }
 section {
     width: 30%; height: 400px;
@@ -8,12 +13,12 @@ section {
     padding-top: 5%;
 }
 #picture {
-    margin-bottom: 100px;
     width: 170px;
     height: 250px;
 }
 #balloon {
     text-align: center;
+    display: block;
     
 }
 img {
@@ -24,8 +29,17 @@ img {
     width: 100%;
 }
 h1 { 
+    display: block;
     font-family: 'Snippet' , cursive;
-    font-size: 2em;
+    font-size: 35px;
     text-align: center;
     color: #5897bd
+}
+h2 {
+    display: block;
+    font-family: 'Snippet' , cursive;
+    font-size: 20px;
+    text-align: center;
+    color: #5897bd
+
 }
