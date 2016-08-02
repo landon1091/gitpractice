@@ -27,6 +27,7 @@ img {
 }
 .boat {
     width: 100%;
+    padding-left: 5%;
 }
 h1 { 
     display: block;
