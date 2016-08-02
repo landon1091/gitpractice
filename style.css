@@ -1,0 +1,13 @@
+body {
+    background-color: #f0b017;
+    padding-left: 5%;
+}
+section {
+    width: 30%; height: 400px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 5%;
+}
+#balloon {
+    
+}
