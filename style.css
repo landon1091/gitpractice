@@ -1,6 +1,5 @@
 body {
     background-color: #f0b017;
-    padding-left: 5%;
 }
 section {
     width: 30%; height: 400px;
@@ -8,6 +7,9 @@ section {
     text-align: center;
     padding-top: 5%;
 }
+#picture {
+    margin-bottom: 500px;
+}
 #balloon {
-    
+    text-align: center;
 }
