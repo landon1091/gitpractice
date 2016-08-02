@@ -14,9 +14,18 @@ section {
 }
 #balloon {
     text-align: center;
-    margin-bottom: 15%;
+    
 }
 img {
     width: 100px;
     height: 100px;
+}
+.boat {
+    width: 100%;
+}
+h1 { 
+    font-family: 'Snippet' , cursive;
+    font-size: 2em;
+    text-align: center;
+    color: #5897bd
 }
